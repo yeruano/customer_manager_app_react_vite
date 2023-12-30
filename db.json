@@ -1,0 +1,41 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Juan",
+      "phone": 102013313,
+      "email": "juan@juan.com",
+      "company": "Code with Kaiser"
+    },
+    {
+      "id": 3,
+      "name": "Josue",
+      "phone": 31983913,
+      "email": "josue@juan.com",
+      "company": "Code with Kaiser"
+    },
+    {
+      "name": "Miguel",
+      "company": "Code with Kaiser",
+      "email": "miguel@juan.com",
+      "phone": "319381983",
+      "observations": "asdas",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Pedro",
+      "phone": 1398198938,
+      "email": "pedro@juan.com",
+      "company": "Code with Kaiser"
+    },
+    {
+      "name": "Yudihnio (Updated) v6",
+      "company": "bancolombia",
+      "email": "yeruano@bancolombia.com.co",
+      "phone": "3187577133",
+      "observations": "Solicito acceso a cuenta de AWS",
+      "id": 6
+    }
+  ]
+}
